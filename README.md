@@ -39,7 +39,7 @@
 - Правый клик — пометить клетку как мину.
 
 ## Скриншоты
-![![изображение](https://github.com/user-attachments/assets/1aabfd8f-9e90-4f04-9d5f-ce10555c345d)]
+[изображение](https://github.com/user-attachments/assets/1aabfd8f-9e90-4f04-9d5f-ce10555c345d)
 
 ## Технологии
 - python
